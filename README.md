@@ -1,3 +1,10 @@
 # lab19
 ## AWS:
-![whiteBoard](./awsl.jpg)
+![aws](./awsl.png)
+
+
+## Email:
+![email](./awsl2.png)
+
+## Subscribe email:
+![subscribe](./awsl3.png)
