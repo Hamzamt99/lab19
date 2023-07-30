@@ -1,10 +1,10 @@
 # lab19
 ## AWS:
-![aws](./awsl2.png)
+![aws](./awsl3.png)
 
 
 ## Email:
-![email](./awsl.png)
+![email](./awsl2.png)
 
 ## Subscribe email:
-![subscribe](./awsl3.png)
+![subscribe](./awsl.png)
