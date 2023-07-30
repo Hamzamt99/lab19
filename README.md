@@ -1,3 +1,3 @@
 # lab19
 ## AWS:
-![whiteBoard](./whiteboeard.jpg)
+![whiteBoard](./awsl.jpg)
