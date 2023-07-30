@@ -4,7 +4,7 @@
 
 
 ## Email:
-![email](./awsl1.png)
+![email](./awsl.png)
 
 ## Subscribe email:
 ![subscribe](./awsl3.png)
